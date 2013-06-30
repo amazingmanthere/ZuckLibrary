@@ -1,0 +1,5 @@
+F:\Projects\ZuckLibrary\ZuckLibrary\ZuckLibrary\obj\Debug\ZuckLibrary.csprojResolveAssemblyReference.cache
+F:\Projects\ZuckLibrary\ZuckLibrary\ZuckLibrary\bin\Debug\ZuckLibrary.dll
+F:\Projects\ZuckLibrary\ZuckLibrary\ZuckLibrary\bin\Debug\ZuckLibrary.pdb
+F:\Projects\ZuckLibrary\ZuckLibrary\ZuckLibrary\obj\Debug\ZuckLibrary.dll
+F:\Projects\ZuckLibrary\ZuckLibrary\ZuckLibrary\obj\Debug\ZuckLibrary.pdb
