@@ -1,4 +1,0 @@
-F:\Projects\ZuckLibrary\ZuckLibrary\ZuckLibrary\bin\Release\ZuckLibrary.dll
-F:\Projects\ZuckLibrary\ZuckLibrary\ZuckLibrary\bin\Release\ZuckLibrary.pdb
-F:\Projects\ZuckLibrary\ZuckLibrary\ZuckLibrary\obj\Release\ZuckLibrary.dll
-F:\Projects\ZuckLibrary\ZuckLibrary\ZuckLibrary\obj\Release\ZuckLibrary.pdb
