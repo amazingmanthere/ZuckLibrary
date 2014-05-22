@@ -5,7 +5,10 @@
 # !lib.a
 # 仅仅忽略项目根目录下的 TODO 文件，不包括 subdir/TODO
 /ZuckLibrary/ZuckLibrary/bin/
-# 忽略 build/ 目录下的所有文件
-/ZuckLibrary/ZuckLibrary/obj/
+# 忽略bin目录
+Bin
+bin
+# 忽略obj目录
+obj
 # 会忽略 doc/notes.txt 但不包括 doc/server/arch.txt
 # doc/*.txt
